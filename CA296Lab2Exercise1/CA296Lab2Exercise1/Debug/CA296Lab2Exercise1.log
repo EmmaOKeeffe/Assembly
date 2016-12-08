@@ -1,0 +1,11 @@
+﻿Build started 21/10/2016 11:58:34.
+     1>Project "H:\CA296Lab2Exercise1\CA296Lab2Exercise1\CA296Lab2Exercise1.vcxproj" on node 2 (_MASM target(s)).
+     1>_MASM:
+         Assembling main.asm...
+         cmd.exe /C "C:\Users\okeeffe7\AppData\Local\Temp\tmp76e8025238b64be3b7f309eb8b183d8d.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm
+     1>Done Building Project "H:\CA296Lab2Exercise1\CA296Lab2Exercise1\CA296Lab2Exercise1.vcxproj" (_MASM target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.55

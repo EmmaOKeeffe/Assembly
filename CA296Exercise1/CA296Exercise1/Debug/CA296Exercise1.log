@@ -1,0 +1,14 @@
+﻿Build started 30/09/2016 11:40:07.
+     1>Project "h:\CA296Exercise1\CA296Exercise1\CA296Exercise1.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CA296Exercise1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>_MASM:
+         Assembling main.asm...
+         cmd.exe /C "C:\Users\okeeffe7\AppData\Local\Temp\tmp4842ead0506e42c5bc70f4b3bccd4fe8.cmd"
+         ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm
+     1>main.asm(51): error A2137: too few arguments to INVOKE
+     1>C:\Program Files\MSBuild\Microsoft.Cpp\v4.0\V120\BuildCustomizations\masm.targets(50,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm" exited with code 1.
+     1>Done Building Project "h:\CA296Exercise1\CA296Exercise1\CA296Exercise1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.35
